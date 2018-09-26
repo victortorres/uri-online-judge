@@ -1,4 +1,4 @@
-package br.com.vtorres.uriolinejudge.iniciante;
+package br.com.vtorres.uriolinejudge.categorias.iniciante;
 
 import java.util.Scanner;
 
